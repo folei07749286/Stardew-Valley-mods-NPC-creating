@@ -1,10 +1,10 @@
 {
-    "Name": "[CP]Verdrian",
-    "Author": "folei",
-    "Version": "1.0",
-    "Description": "一个混进人类的渴血恶魔，维里安，他是会选择吃掉你，还是爱上你。",
-    "UniqueID": "Verdrian.Npcmod",
-    "ContentPackFor": {
-        "UniqueID": "Pathoschild.ContentPatcher"
+    "名称": “凡尔赛语“,
+    “作者”: “佛雷”,
+    “版本“: "1.0",
+    “描述“: "一个混进人类血统的渴血恶魔,维里安,他是会选择吃掉你,还是爱上你。",
+    “唯一ID“: “凡尔德里安。Npcmod,
+    “内容包”: {
+        “唯一ID“: “帕索希尔。内容修补程序“
     }
 }
