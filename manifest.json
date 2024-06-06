@@ -1,0 +1,10 @@
+{
+    "Name": "[CP]Verdrian",
+    "Author": "folei",
+    "Version": "1.0",
+    "Description": "一个混进人类的渴血恶魔，维里安，他是会选择吃掉你，还是爱上你。",
+    "UniqueID": "Verdrian.Npcmod",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
